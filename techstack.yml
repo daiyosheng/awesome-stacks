@@ -2,7 +2,7 @@ repo_name: daiyosheng/awesome-stacks
 report_id: a16e97ebba94c1dc6ee4586b52de1f15
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:22:23+00:00'
+timestamp: '2024-02-29T19:04:08+00:00'
 requested_by: chetanror
 provider: github
 branch: master
@@ -106,7 +106,7 @@ tools:
   detection_source_url: https://github.com/daiyosheng/awesome-stacks
   detection_source: Repo Metadata
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 1.16.4
   license: MIT
